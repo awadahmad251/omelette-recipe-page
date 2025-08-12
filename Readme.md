@@ -8,15 +8,10 @@ A simple and clean **HTML + CSS** recipe page that shows step-by-step instructio
 - Easy to customize for any recipe
 
 ## 🖼 Preview
-   ## 🖼 Preview
-
-<p align="center">
-  <img src="recipepage\screenshot-top.png" width="45%">
-  <img src="recipepage\screenshot-mid.png" width="45%">
-</p>
-<p align="center">
-  <img src="recipepage\screenshot-bottom.png" width="45%">
-</p>
+![Recipe Page Top](images/screenshot-top.png)  
+![Recipe Page Middle](images/screenshot-mid.png)  
+![Recipe Page Bottom](images/screenshot-bottom.png)
 
 
 ## 📂 Project Structure
+
