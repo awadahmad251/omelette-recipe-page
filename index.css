@@ -30,6 +30,11 @@ img{
 .time li{
              padding: 4px;
 }
+li:hover {
+  background-color: #ffe6b3;
+  transition: 0.3s;
+}
+
 
 h2{
     color: coral;
@@ -82,3 +87,4 @@ h2{
 .nutrition tr{
     border-bottom: 1px solid lightgoldenrodyellow;
 }
+
