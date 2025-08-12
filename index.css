@@ -1,0 +1,84 @@
+.img{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    padding-top: 50px;
+    padding-left: 20px;
+    
+}
+img{
+    width: 50%;
+    height: 50%;
+    border-radius: 4px;
+}
+.main{
+   padding-left: 20px;
+   
+}
+.time{
+           
+      /* display: flex;
+      flex-direction: column;
+      align-items: center; */
+      background-color: lightyellow;
+      /* width: fit-content; */
+      /* margin: auto; */
+      padding-left: 20px;
+
+       
+}
+.time li{
+             padding: 4px;
+}
+
+h2{
+    color: coral;
+}
+
+
+
+/* ingredients */
+.ingred{
+       padding-left: 20px;
+}
+
+.ingred li{
+    padding: 4px;
+}
+
+/* instructions */
+
+.instructions{
+    /* display: grid;
+    place-items: center; */
+    padding-left: 20px;
+   
+}  
+.instructions li{
+    padding: 4px;
+    
+}
+            
+            /* nutrition */
+.nutrition{
+           padding-left: 20px;
+}
+
+.nutrition table {
+  border-collapse: collapse;
+  width: 200px; /* adjust width */
+}
+
+
+
+.nutrition td:first-child{
+          text-align: left;
+}
+.nutrition td:last-child{
+    text-align: right;
+    color: coral;
+}
+
+.nutrition tr{
+    border-bottom: 1px solid lightgoldenrodyellow;
+}
